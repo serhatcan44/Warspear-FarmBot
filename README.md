@@ -22,7 +22,7 @@ PyQt5 arayüzü, OpenCV ile canavar algılama ve pyautogui ile otomatik tıklama
 ## 🚀 Kurulum
 
 ```bash
-git clone https://github.com/ByDolor/Warspear-FarmBot.git
+git clone https://github.com/serhatcan44/Warspear-FarmBot.git
 cd Warspear-FarmBot
 pip install -r requirements.txt
 ```
