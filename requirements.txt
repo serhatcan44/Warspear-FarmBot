@@ -1,0 +1,9 @@
+# Warspear FarmBot dependencies
+# Install with:
+#   pip install -r requirements.txt
+
+PyQt5>=5.15.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+pyautogui>=0.9.54
+Pillow>=10.0.0
